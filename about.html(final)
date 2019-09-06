@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>VIVIAN | ABOUT</title>
+        <meta name="description"content="This is the description">
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <header class="main-header">
+          <nav class="nav main-nav">
+            <ul>
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="about.html">ABOUT ME</a></li>
+                    <li><a href="life.html">LIFE</a></li>
+            </ul>
+      </nav>
+     
+      <h1 class="my-name my-name-large">VIVIAN</h1>
+      </header>
+
+      <section class="content-section container">
+          <h2 class="section-header">About</h2>
+          <img class="about-me-image" src= "Image/reading me final (wo words).png">
+          <p>Hi, I like traveling and learn new skilles. 
+              I want to practice my code learning,so this wwebsite is 
+              created out of practice. I also like making friends 
+              around the world. Hope that we can know each other better.content-section
+              If you wannt to know more about me, email me.
+              <p>My target rigth now is to learn different language that I could take advantage with.</p>
+                 In my college, I major in Foreign Language and Literature, which help me get deeper inside of literature world but at the same time teach me a hard lesson.
+                  I'm not a diligiant student tbh and my Janpanese teacher is bad, whch  becomeS part of the reason I learn Japanes bad and had no intesest in it. Yet, when the time passed and I only had one year left to graduate. I find I HAD NOTHING TO COMPETE WITH OTHERS. That's face the reality, I didn't learn some professional skills and I only good at one language other than my native tongue.
+                  I keep asking myself what am I good at and what I truly interested.
+                  Then, that's what I'm doing right know, learn whatever I can and I also try to grb back my interests of language learning.
+                  My target right know is to set my own website by writing the code by myself and read the Japanes and Spanish original novels.
+                  Thank you, wish me good luck.
+              
+        </p>
+      </section>
+    
+      <footer class="main-footer">
+          <div class="container main-footer-container">
+           <h3 class="my-name">VIVIAN</h3>
+           <ul class="nav footer-nav">
+                <li>
+                  <a href="http://youtube.com" target="_blank">
+                    <img src="image/YouTube Logo.png">
+                  </a>
+                </li>
+                <li>
+                    <a href="http://facebook.com" target="_blank">
+                    <img src="image/Facebook Logo.png">
+                   </a>
+                </li>
+                <li>
+                    <a href="https://www.pinterest.com/" target="_blank">
+                    <img src="image/Spotify Logo.png">
+                    </a>
+                </li>
+           </ul>
+        </div>
+        </footer>
+
+    </body>
+</html>
